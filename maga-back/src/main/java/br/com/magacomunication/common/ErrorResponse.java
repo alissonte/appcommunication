@@ -1,6 +1,10 @@
 package br.com.magacomunication.common;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
